@@ -1,0 +1,35 @@
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(228, 173, 173);
+    text-align: center;
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(240, 222, 201);
+    text-transform: none;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    background-color: rgb(114, 26, 26);
+    line-height:30px;
+}
+
+.destacados{
+    color: rgb(218, 99, 99);
+    font-weight: bold;
+    font-style: italic;
+    font-size: 22px;
+}
+
+    #caja{
+        width: 400px;
+        height: 250px;
+       /* background-color: rgba(255, 85, 164, 0.521); */ 
+        margin: 120px;
+        background: rgb(255,211,230);
+        background: radial-gradient(circle, rgba(255,211,230,1) 0%, rgba(163,89,240,1) 100%); 
+        box-shadow: 15px 15px 10px black;
+        border-radius: 20px;
+    }
